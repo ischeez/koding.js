@@ -11,10 +11,10 @@ const usdToRub = (usd) => {
 }
     const ages = [10,18,55,3,20];
     for (const age of ages){
-        if (age < 18){
-            console.log('Ты маеленький')
-        } else {
+        if (age >= 18){
             console.log('Подходишь')
+        } else {
+            console.log('Ты маеленький')
         }
     } 
     
