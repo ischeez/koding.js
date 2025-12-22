@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const usdToRub = (usd) => {
     const odd = (a, b) => a * b;
 
@@ -39,3 +40,47 @@ console.log(usdToRub(121));
 // console.log(checkAge(16));
 // console.log(checkAge(21)); 
  /// Альтрнатива 
+=======
+// const age  = 20;
+
+// if (age >= 18) {
+//     console.log('Доступ разрешен');
+// } else {
+//     console.log('Доступ запрещен');
+// }
+
+
+
+
+// let totalPrice = 5000;
+// const accountBalance = 4000;
+// const isVip = true;
+
+
+
+
+// if (isVip===true){
+//     totalPrice = totalPrice * 0.9;               0,9 = 90% ибо 100-10 
+
+
+// } 
+
+// if (accountBalance >= totalPrice){
+//     console.log('Оплата прошла успешно');
+// } else {
+//     console.log('Оплата не успешна');
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+>>>>>>> 0406d75d47f1d20a83d6d52f9e113c669f4b9e4f
