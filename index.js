@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const usdToRub = (usd) => {
     const odd = (a, b) => a * b;
 
@@ -54,4 +53,4 @@ console.log(usdToRub(121));
 
 
  
->>>>>>> 0406d75d47f1d20a83d6d52f9e113c669f4b9e4f
+
