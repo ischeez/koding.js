@@ -40,20 +40,3 @@ console.log(usdToRub(121));
 // console.log(checkAge(21)); 
  /// Альтрнатива 
 
-<<<<<<< HEAD
-=======
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
->>>>>>> 271558ea60c284c98815c2f436e3bc3c43ab6ceb
